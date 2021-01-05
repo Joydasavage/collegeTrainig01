@@ -1,0 +1,46 @@
+.pic1 {
+    background-image: url('pic1.png');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 60%px;
+  }
+
+.Alignment {
+    position: relative;
+    /* border: 3px solid #07bdf5;  */
+    top:10%;
+    left:7%;
+    height: 80%;
+    width: 58.5%;
+}
+
+.Alignment_2{
+    position: absolute;
+    top:10%;
+    left:90%;
+    width:58%;
+    height:45%;
+    /* border: 3px solid #73AD21; */
+}
+
+.Alignment_3{
+    position: absolute;
+    top:65%;
+    left:0%;
+    width:100%;
+    height:100%;
+    /* border: 3px solid #ff0202; */
+}
+
+.Font1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Font2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Font3{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
