@@ -1,6 +1,7 @@
 .pic1 {
     background-image: url('pic1.png');
     background-repeat: no-repeat;
+    background-size: contain;
     height: 100%;
     width: 60%px;
   }
